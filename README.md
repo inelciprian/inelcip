@@ -1,2 +1,1 @@
-# inelcip
-My personal repository
+#About me
